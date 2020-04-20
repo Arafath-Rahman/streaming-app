@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Link, Route } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import StreamCreate from './streams/StreamCreate';
 import StreamEdit from './streams/StreamEdit';
 import StreamDelete from './streams/StreamDelete';
@@ -9,9 +9,9 @@ import Header from './Header';
 
 const App = () => {
     return (
-        <div>
-            <Header />
+        <div className="ui container">
             <BrowserRouter>
+                <Header />
                 <Route path="/" exact component={StreamList} />
                 <Route path="/streams/new" exact component={StreamCreate} />
                 <Route path="/streams/edit" exact component={StreamEdit} />
@@ -23,3 +23,5 @@ const App = () => {
 };
 
 export default App;
+
+//API Key = '142747915990-r99cpbnv85lk8vuhtj07vmjoqddjaffv.apps.googleusercontent.com';
