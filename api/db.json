@@ -9,6 +9,17 @@
       "title": "Lets Play PUBG....",
       "description": "This is PUBG Mobile gameplay stream.",
       "id": 2
+    },
+    {
+      "title": "Lets learn React.js",
+      "description": "welcome to the stream.",
+      "id": 3
+    },
+    {
+      "title": "Welcome to another new stream!",
+      "description": "This stream has a userId attached to it.",
+      "userId": "100416876069889068919",
+      "id": 4
     }
   ]
 }
