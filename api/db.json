@@ -4,6 +4,11 @@
       "title": "My first Stream",
       "description": "This is my very first stream on GoStreamy",
       "id": 1
+    },
+    {
+      "title": "Lets Play PUBG....",
+      "description": "This is PUBG Mobile gameplay stream.",
+      "id": 2
     }
   ]
 }
