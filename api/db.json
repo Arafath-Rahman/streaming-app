@@ -17,9 +17,19 @@
     },
     {
       "title": "Welcome to another new stream!",
-      "description": "This stream has a userId attached to it.",
-      "userId": "100416876069889068919",
+      "description": "This stream has a userId attached to it........",
       "id": 4
+    },
+    {
+      "title": "Programmatic Navigation!!!",
+      "description": "This stream is created to test the programmatic Navigation!",
+      "id": 5
+    },
+    {
+      "title": "New Stream!!",
+      "description": "This is a test stream updated by patch!",
+      "userId": "100416876069889068919",
+      "id": 6
     }
   ]
 }
